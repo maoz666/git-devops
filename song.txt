@@ -1,2 +1,3 @@
 Some text blablabla
 new line
+another line added
